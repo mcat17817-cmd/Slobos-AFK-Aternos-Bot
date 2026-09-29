@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mopsandia.aternos.me:12644",
+    "ip": "Mopsandia.aternos.me",
     "port": 12644,
     "version": "26.1.2",
     "try-creative": false
